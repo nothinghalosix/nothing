@@ -1,0 +1,14 @@
+{
+  "name": "nothing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jspaceman",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^0.6.4"
+  }
+}
